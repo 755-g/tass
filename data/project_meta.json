@@ -1,0 +1,20 @@
+{
+  "latest_ai_flow": {
+    "learning_days": [3, 4],
+    "title": "CrewAI 健身计划多 Agent",
+    "status": "completed",
+    "tags": ["CrewAI", "提示注入", "Agent安全"]
+  },
+  "joke-pipeline": {
+    "learning_days": [2],
+    "title": "LangChain Agent + MCP",
+    "status": "completed",
+    "tags": ["LangChain", "MCP", "Function Calling"]
+  },
+  "fastapi-demo": {
+    "learning_days": [1],
+    "title": "FastAPI 基础探索",
+    "status": "abandoned",
+    "tags": ["FastAPI", "早期探索"]
+  }
+}

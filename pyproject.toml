@@ -1,0 +1,11 @@
+[project]
+name = "tass"
+version = "0.1.0"
+description = "Terminal Assistant: Agent learning project manager"
+requires-python = ">=3.12"
+
+[project.scripts]
+tass = "tass.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
